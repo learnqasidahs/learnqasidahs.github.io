@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+}
+
+#link_home{
+    color: green;
+    font-size: 25px;
+}
+
+#link_qasidah{
+    color: green;
+    font-size: 30px;
+}
+
+body h1{
+    color: white;
+}

@@ -3,12 +3,12 @@ body {
 }
 
 #link_home{
-    color: green;
+    color: greenyellow;
     font-size: 25px;
 }
 
 #link_qasidah{
-    color: green;
+    color: greenyellow;
     font-size: 30px;
 }
 
@@ -17,5 +17,5 @@ body h1{
 }
 
 #Stanza_Heading{
-    color: white;
+    color: silver;
 }

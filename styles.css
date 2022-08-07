@@ -2,6 +2,10 @@ body {
     background-color: black;
 }
 
+#Title{
+    font-size: 45px;
+}
+
 #link_home{
     color: greenyellow;
     font-size: 22px;

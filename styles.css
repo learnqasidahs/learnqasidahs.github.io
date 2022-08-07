@@ -35,11 +35,15 @@ body h1{
 #Line_Header{
     color: green;
     width: 75%;
+    height: 5px;
+    background-color: lightgreen;
 }
 
 #Line_Footer{
     color: green;
     width: 75%;
+    height: 5px;
+    background-color: lightgreen;
 }
 
 #Line{

@@ -27,3 +27,8 @@ body h1{
 #Verse_Heading{
     color: silver;
 }
+
+#line{
+    color: green;
+    width: 75%;
+}

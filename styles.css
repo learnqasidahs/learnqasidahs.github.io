@@ -4,7 +4,7 @@ body {
 
 #link_home{
     color: greenyellow;
-    font-size: 25px;
+    font-size: 22px;
 }
 
 #link_qasidah{
@@ -16,6 +16,14 @@ body h1{
     color: white;
 }
 
+#Body_Area{
+    text-align: center;
+}
+
 #Stanza_Heading{
+    color: silver;
+}
+
+#Verse_Heading{
     color: silver;
 }

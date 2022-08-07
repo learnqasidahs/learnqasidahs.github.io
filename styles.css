@@ -28,7 +28,17 @@ body h1{
     color: silver;
 }
 
-#line{
+#Line_Header{
     color: green;
     width: 75%;
+}
+
+#Line_Footer{
+    color: green;
+    width: 75%;
+}
+
+#Line{
+    color: green;
+    width: 65%;
 }
